@@ -1,0 +1,21 @@
+{
+  "name": "movie-info",
+  "version": "1.0.0",
+  "description": "fetch movie information from http://www.omdbapi.com",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "information"
+  ],
+  "author": "mohsenrz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.0",
+    "yargs": "^13.3.0"
+  }
+}
