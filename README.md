@@ -3,6 +3,6 @@ node.js asynchronous code samples:
 
 - movie-info: get movie information from [omdbapi](http://www.omdbapi.com) API.
 
-- patient-doctor: set appointment for patients(express, mongoose, supertest).
+- patient-doctor: set appointment for patients(express, mongoose, mocha). 
 
 - user-posts: crud operations with [jsonplaceholder](https://jsonplaceholder.typicode.com) APIs.
